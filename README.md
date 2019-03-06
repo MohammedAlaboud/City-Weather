@@ -3,4 +3,4 @@ A simple web interface where you input a city name and it returns the weather. W
 
 
 
-Download zip file. Install npm and node dependencies. Then run "node server.js" on terminal
+Download zip file. Install npm and node dependencies into it. Then run "node server.js" on terminal
